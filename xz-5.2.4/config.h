@@ -155,7 +155,7 @@
 #define HAVE_ICONV 1
 
 /* Define to 1 if you have the <immintrin.h> header file. */
-/* #undef HAVE_IMMINTRIN_H */
+#define HAVE_IMMINTRIN_H 1
 
 /* Define to 1 if you have the <inttypes.h> header file. */
 #define HAVE_INTTYPES_H 1
